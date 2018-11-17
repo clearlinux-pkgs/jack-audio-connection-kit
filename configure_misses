@@ -1,0 +1,22 @@
+Configure miss: existing, conflicting JACK installs
+Configure miss: /usr/include/nptl/pthread.h usability
+Configure miss: /usr/include/nptl/pthread.h presence
+Configure miss: /usr/include/nptl/pthread.h
+Configure miss: _Z28zita_resampler_major_versionv in -lzita-resampler
+Configure miss: _Z28zita_alsa_pcmi_major_versionv in -lzita-alsa-pcmi
+Configure miss: CELT
+Configure miss: CELT
+Configure miss: CELT
+Configure miss: CoreAudio/CoreAudio.h usability
+Configure miss: CoreAudio/CoreAudio.h presence
+Configure miss: CoreAudio/CoreAudio.h
+Configure miss: sys/audioio.h usability
+Configure miss: sys/audioio.h
+Configure miss: sndio.h usability
+Configure miss: sndio.h presence
+Configure miss: sndio.h
+Configure miss: LIBFREEBOB
+Configure miss: LIBFFADO
+Configure miss: readline in -lreadline
+Configure miss: readline in -lreadline
+Configure miss: readline in -lreadline
